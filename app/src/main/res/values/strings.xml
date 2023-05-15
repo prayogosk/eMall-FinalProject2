@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Final Project 2 - Kelompok 4</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="admin">Admin</string>
+    <string name="staff">Staff</string>
+    <string name="about">About</string>
+
+</resources>
